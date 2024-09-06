@@ -1,1 +1,1 @@
-pip install -U -e .
+pip install -U -e jax-src
